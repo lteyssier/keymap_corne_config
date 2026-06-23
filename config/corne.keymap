@@ -53,9 +53,9 @@
 
             display-name = "Raise";
             bindings = <
-&kp TAB    &kp EXCL  &kp SQT  &kp LS(NUMBER_2)  &kp EQUAL      &kp LS(MINUS)       &kp LS(NUMBER_8)  &kp LS(NUMBER_9)  &kp LS(NUMBER_7)  &kp LS(GRAVE)        &kp EXCL               &kp BSPC
-&kp LCTRL  &trans    &trans   &trans            &kp LS(EQUAL)  &kp LS(NUMBER_1)    &kp LS(SQT)       &kp ASTRK         &kp LBKT          &kp RA(LBKT)         &kp LS(RIGHT_BRACKET)  &kp LS(RIGHT_BRACKET)
-&kp LSHFT  &trans    &trans   &trans            &kp LS(GRAVE)  &kp RA(Q)           &kp SQT           &kp LS(ASTERISK)  &kp NON_US_BSLH   &kp LS(NON_US_BSLH)  &kp LS(EXCLAMATION)    &kp GRAVE
+&kp TAB    &kp EXCL  &kp SQT  &kp LS(NUMBER_2)  &kp EQUAL      &kp LS(MINUS)       &kp LS(NUMBER_8)  &kp LS(NUMBER_9)  &kp LS(NUMBER_7)  &kp LS(GRAVE)          &kp EXCL               &kp BSPC
+&kp LCTRL  &trans    &trans   &trans            &kp LS(EQUAL)  &kp LS(NUMBER_1)    &kp LS(SQT)       &kp ASTRK         &kp LBKT          &kp RA(RIGHT_BRACKET)  &kp LS(RIGHT_BRACKET)  &kp RA(SEMICOLON)
+&kp LSHFT  &trans    &trans   &trans            &kp LS(GRAVE)  &kp RA(Q)           &kp SQT           &kp LS(ASTERISK)  &kp NON_US_BSLH   &kp LS(NON_US_BSLH)    &kp LS(EXCLAMATION)    &kp GRAVE
                               &kp LGUI          &trans         &kp SPACE           &kp RET           &trans            &kp RALT
             >;
         };
